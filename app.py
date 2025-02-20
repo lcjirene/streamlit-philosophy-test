@@ -90,5 +90,4 @@ if st.button("Submit"):
     for philosophy, description in zip(highest_philosophies, descriptions):
         st.write(f"#### {philosophy}")
         st.write(description)
-    
-    st.write("\nThis tool was prepared by Robert Leahy (1995) for 'Becoming a Teacher: Accepting the Challenge of a Profession' (3rd Ed.)")
+        
