@@ -26,7 +26,7 @@ def calculate_educational_philosophy(scores):
         "Behaviorism": "Learning is shaped by external rewards and reinforcements, denying free will. The role of educator is to identify behavioural goals and establish reinforcers to achieve goals. Key figures: B.F. Skinner, Ivan Pavlov, J.B. Watson.",
         "Progressivism": "Education should be student-centered, emphasizing critical thinking and real-world problem-solving. Education should help learners develop personal and social values. Notable proponents: John Dewey, Francis Parker.",
         "Existentialism": "Education stresses the importance of personal choice, self-definition, and individual experiences. Key contributors: Jean-Paul Sartre, Carl Rogers, Maxine Greene.",
-        "Perennialism": "Education should focus on intellectual development through great works and highest level of knowledge in each field should be the focus of the curriculum. Prominent thinkers: Robert Hutchins, Mortimer Adler, Allan Bloom.",
+        "Perennialism": "Education should focus on intellectual development through great works. Highest level of knowledge in each field should be the focus of the curriculum. Prominent thinkers: Robert Hutchins, Mortimer Adler, Allan Bloom.",
         "Reconstructionism": "Schools should go beyond mere knowledge transmission; they should lead social change and transform society through education. Influential figures: Theodore Brameld, Paulo Freire, Henry Giroux."
     }
     
